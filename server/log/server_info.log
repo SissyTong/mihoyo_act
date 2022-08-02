@@ -1,0 +1,60 @@
+[raptor/server]2022/07/26 - 09:31:03.312	[34minfo[0m	C:/Users/junzhe.sun/Desktop/cmdb_bh3/server/initialize/router.go:31	use middleware logger
+[raptor/server]2022/07/26 - 09:31:03.314	[34minfo[0m	C:/Users/junzhe.sun/Desktop/cmdb_bh3/server/initialize/router.go:35	use middleware cors
+[raptor/server]2022/07/26 - 09:31:03.314	[34minfo[0m	C:/Users/junzhe.sun/Desktop/cmdb_bh3/server/initialize/router.go:37	register swagger handler
+[raptor/server]2022/07/26 - 09:31:03.324	[34minfo[0m	C:/Users/junzhe.sun/Desktop/cmdb_bh3/server/initialize/router.go:88	router register success
+[raptor/server]2022/07/26 - 09:31:03.326	[34minfo[0m	C:/Users/junzhe.sun/Desktop/cmdb_bh3/server/core/server.go:39	server run success on 	{"address": ":8888"}
+[raptor/server]2022/07/26 - 10:30:25.100	[34minfo[0m	C:/Users/junzhe.sun/Desktop/cmdb_bh3/server/initialize/router.go:31	use middleware logger
+[raptor/server]2022/07/26 - 10:30:25.101	[34minfo[0m	C:/Users/junzhe.sun/Desktop/cmdb_bh3/server/initialize/router.go:35	use middleware cors
+[raptor/server]2022/07/26 - 10:30:25.101	[34minfo[0m	C:/Users/junzhe.sun/Desktop/cmdb_bh3/server/initialize/router.go:37	register swagger handler
+[raptor/server]2022/07/26 - 10:30:25.111	[34minfo[0m	C:/Users/junzhe.sun/Desktop/cmdb_bh3/server/initialize/router.go:88	router register success
+[raptor/server]2022/07/26 - 10:30:25.112	[34minfo[0m	C:/Users/junzhe.sun/Desktop/cmdb_bh3/server/core/server.go:39	server run success on 	{"address": ":8888"}
+[raptor/server]2022/07/26 - 10:40:38.768	[34minfo[0m	C:/Users/junzhe.sun/Desktop/cmdb_bh3/server/initialize/router.go:31	use middleware logger
+[raptor/server]2022/07/26 - 10:40:38.768	[34minfo[0m	C:/Users/junzhe.sun/Desktop/cmdb_bh3/server/initialize/router.go:35	use middleware cors
+[raptor/server]2022/07/26 - 10:40:38.769	[34minfo[0m	C:/Users/junzhe.sun/Desktop/cmdb_bh3/server/initialize/router.go:37	register swagger handler
+[raptor/server]2022/07/26 - 10:40:38.778	[34minfo[0m	C:/Users/junzhe.sun/Desktop/cmdb_bh3/server/initialize/router.go:88	router register success
+[raptor/server]2022/07/26 - 10:40:38.779	[34minfo[0m	C:/Users/junzhe.sun/Desktop/cmdb_bh3/server/core/server.go:39	server run success on 	{"address": ":8888"}
+[raptor/server]2022/07/26 - 10:47:09.261	[34minfo[0m	C:/Users/junzhe.sun/Desktop/cmdb_bh3/server/initialize/router.go:31	use middleware logger
+[raptor/server]2022/07/26 - 10:47:09.262	[34minfo[0m	C:/Users/junzhe.sun/Desktop/cmdb_bh3/server/initialize/router.go:35	use middleware cors
+[raptor/server]2022/07/26 - 10:47:09.262	[34minfo[0m	C:/Users/junzhe.sun/Desktop/cmdb_bh3/server/initialize/router.go:37	register swagger handler
+[raptor/server]2022/07/26 - 10:47:09.276	[34minfo[0m	C:/Users/junzhe.sun/Desktop/cmdb_bh3/server/initialize/router.go:88	router register success
+[raptor/server]2022/07/26 - 10:47:09.277	[34minfo[0m	C:/Users/junzhe.sun/Desktop/cmdb_bh3/server/core/server.go:39	server run success on 	{"address": ":8888"}
+[raptor/server]2022/07/26 - 10:56:44.388	[34minfo[0m	C:/Users/junzhe.sun/Desktop/cmdb_bh3/server/initialize/router.go:31	use middleware logger
+[raptor/server]2022/07/26 - 10:56:44.389	[34minfo[0m	C:/Users/junzhe.sun/Desktop/cmdb_bh3/server/initialize/router.go:35	use middleware cors
+[raptor/server]2022/07/26 - 10:56:44.389	[34minfo[0m	C:/Users/junzhe.sun/Desktop/cmdb_bh3/server/initialize/router.go:37	register swagger handler
+[raptor/server]2022/07/26 - 10:56:44.404	[34minfo[0m	C:/Users/junzhe.sun/Desktop/cmdb_bh3/server/initialize/router.go:88	router register success
+[raptor/server]2022/07/26 - 10:56:44.405	[34minfo[0m	C:/Users/junzhe.sun/Desktop/cmdb_bh3/server/core/server.go:39	server run success on 	{"address": ":8888"}
+[raptor/server]2022/07/26 - 10:58:06.230	[34minfo[0m	C:/Users/junzhe.sun/Desktop/cmdb_bh3/server/initialize/router.go:31	use middleware logger
+[raptor/server]2022/07/26 - 10:58:06.231	[34minfo[0m	C:/Users/junzhe.sun/Desktop/cmdb_bh3/server/initialize/router.go:35	use middleware cors
+[raptor/server]2022/07/26 - 10:58:06.231	[34minfo[0m	C:/Users/junzhe.sun/Desktop/cmdb_bh3/server/initialize/router.go:37	register swagger handler
+[raptor/server]2022/07/26 - 10:58:06.242	[34minfo[0m	C:/Users/junzhe.sun/Desktop/cmdb_bh3/server/initialize/router.go:88	router register success
+[raptor/server]2022/07/26 - 10:58:06.243	[34minfo[0m	C:/Users/junzhe.sun/Desktop/cmdb_bh3/server/core/server.go:39	server run success on 	{"address": ":8888"}
+[raptor/server]2022/07/26 - 11:25:02.176	[34minfo[0m	C:/Users/junzhe.sun/Desktop/cmdb_bh3/server/initialize/router.go:31	use middleware logger
+[raptor/server]2022/07/26 - 11:25:02.178	[34minfo[0m	C:/Users/junzhe.sun/Desktop/cmdb_bh3/server/initialize/router.go:35	use middleware cors
+[raptor/server]2022/07/26 - 11:25:02.178	[34minfo[0m	C:/Users/junzhe.sun/Desktop/cmdb_bh3/server/initialize/router.go:37	register swagger handler
+[raptor/server]2022/07/26 - 11:25:02.200	[34minfo[0m	C:/Users/junzhe.sun/Desktop/cmdb_bh3/server/initialize/router.go:88	router register success
+[raptor/server]2022/07/26 - 11:25:02.201	[34minfo[0m	C:/Users/junzhe.sun/Desktop/cmdb_bh3/server/core/server.go:39	server run success on 	{"address": ":8888"}
+[raptor/server]2022/07/26 - 11:28:04.500	[34minfo[0m	C:/Users/junzhe.sun/Desktop/cmdb_bh3/server/initialize/router.go:31	use middleware logger
+[raptor/server]2022/07/26 - 11:28:04.501	[34minfo[0m	C:/Users/junzhe.sun/Desktop/cmdb_bh3/server/initialize/router.go:35	use middleware cors
+[raptor/server]2022/07/26 - 11:28:04.501	[34minfo[0m	C:/Users/junzhe.sun/Desktop/cmdb_bh3/server/initialize/router.go:37	register swagger handler
+[raptor/server]2022/07/26 - 11:28:04.516	[34minfo[0m	C:/Users/junzhe.sun/Desktop/cmdb_bh3/server/initialize/router.go:88	router register success
+[raptor/server]2022/07/26 - 11:28:04.518	[34minfo[0m	C:/Users/junzhe.sun/Desktop/cmdb_bh3/server/core/server.go:39	server run success on 	{"address": ":8888"}
+[raptor/server]2022/07/26 - 11:34:13.088	[34minfo[0m	C:/Users/junzhe.sun/Desktop/cmdb_bh3/server/initialize/router.go:31	use middleware logger
+[raptor/server]2022/07/26 - 11:34:13.088	[34minfo[0m	C:/Users/junzhe.sun/Desktop/cmdb_bh3/server/initialize/router.go:35	use middleware cors
+[raptor/server]2022/07/26 - 11:34:13.089	[34minfo[0m	C:/Users/junzhe.sun/Desktop/cmdb_bh3/server/initialize/router.go:37	register swagger handler
+[raptor/server]2022/07/26 - 11:34:13.099	[34minfo[0m	C:/Users/junzhe.sun/Desktop/cmdb_bh3/server/initialize/router.go:88	router register success
+[raptor/server]2022/07/26 - 11:34:13.100	[34minfo[0m	C:/Users/junzhe.sun/Desktop/cmdb_bh3/server/core/server.go:39	server run success on 	{"address": ":8888"}
+[raptor/server]2022/08/01 - 16:25:10.632	[34minfo[0m	C:/Users/junzhe.sun/Desktop/cmdb_bh3/server/initialize/router.go:31	use middleware logger
+[raptor/server]2022/08/01 - 16:25:10.633	[34minfo[0m	C:/Users/junzhe.sun/Desktop/cmdb_bh3/server/initialize/router.go:35	use middleware cors
+[raptor/server]2022/08/01 - 16:25:10.633	[34minfo[0m	C:/Users/junzhe.sun/Desktop/cmdb_bh3/server/initialize/router.go:37	register swagger handler
+[raptor/server]2022/08/01 - 16:25:10.644	[34minfo[0m	C:/Users/junzhe.sun/Desktop/cmdb_bh3/server/initialize/router.go:88	router register success
+[raptor/server]2022/08/01 - 16:25:10.645	[34minfo[0m	C:/Users/junzhe.sun/Desktop/cmdb_bh3/server/core/server.go:39	server run success on 	{"address": ":8888"}
+[raptor/server]2022/08/01 - 21:14:12.586	[34minfo[0m	C:/Users/junzhe.sun/Desktop/cmdb_bh3/server/initialize/router.go:31	use middleware logger
+[raptor/server]2022/08/01 - 21:14:12.587	[34minfo[0m	C:/Users/junzhe.sun/Desktop/cmdb_bh3/server/initialize/router.go:35	use middleware cors
+[raptor/server]2022/08/01 - 21:14:12.588	[34minfo[0m	C:/Users/junzhe.sun/Desktop/cmdb_bh3/server/initialize/router.go:37	register swagger handler
+[raptor/server]2022/08/01 - 21:14:12.596	[34minfo[0m	C:/Users/junzhe.sun/Desktop/cmdb_bh3/server/initialize/router.go:88	router register success
+[raptor/server]2022/08/01 - 21:14:12.598	[34minfo[0m	C:/Users/junzhe.sun/Desktop/cmdb_bh3/server/core/server.go:39	server run success on 	{"address": ":8888"}
+[raptor/server]2022/08/02 - 10:56:52.412	[34minfo[0m	C:/Users/junzhe.sun/Desktop/cmdb_bh3/server/initialize/router.go:31	use middleware logger
+[raptor/server]2022/08/02 - 10:56:52.413	[34minfo[0m	C:/Users/junzhe.sun/Desktop/cmdb_bh3/server/initialize/router.go:35	use middleware cors
+[raptor/server]2022/08/02 - 10:56:52.413	[34minfo[0m	C:/Users/junzhe.sun/Desktop/cmdb_bh3/server/initialize/router.go:37	register swagger handler
+[raptor/server]2022/08/02 - 10:56:52.425	[34minfo[0m	C:/Users/junzhe.sun/Desktop/cmdb_bh3/server/initialize/router.go:88	router register success
+[raptor/server]2022/08/02 - 10:56:52.426	[34minfo[0m	C:/Users/junzhe.sun/Desktop/cmdb_bh3/server/core/server.go:39	server run success on 	{"address": ":8888"}
